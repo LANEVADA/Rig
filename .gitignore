@@ -1,2 +1,4 @@
 *.pyc
 bedlam_venv/
+data/
+demo_images/
